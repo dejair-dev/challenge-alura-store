@@ -1,4 +1,4 @@
-# challenge-challenge-alura-store
+# challenge-alura-store
 
 <h1 align="center"> Challenge - Análise de Desempenho das Lojas </h1>
 
