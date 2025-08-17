@@ -1,5 +1,5 @@
 # challenge-telecom-x
-Challenge Telecom X
+
 <h1 align="center"> Challenge - Análise de Desempenho das Lojas </h1>
 
 Este projeto tem o objetivo de análisar auxiliar o Sr. João, proprietário de uma rede com quatro unidades da Alura Store, a tomar uma decisão estratégica sobre qual loja vender, com o intuito de levantar recursos para novos investimentos.
