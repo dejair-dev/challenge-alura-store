@@ -1,4 +1,4 @@
-# challenge-telecom-x
+# challenge-challenge-alura-store
 
 <h1 align="center"> Challenge - Análise de Desempenho das Lojas </h1>
 
